@@ -1,1 +1,62 @@
+🌐 What is the Internet?
+The Internet is a global network that connects millions of computers and devices. 
+It allows people to share information, communicate, and access data instantly. 
+You could think of it as a giant web of connected roads where data travels back and forth.
 
+⚙️ How does the Internet work?
+When a website is visited, your device sends a request to a server using the Hypertext Transfer Protocol (HTTP). 
+That server sends the website data back, and your browser displays it. 
+It’s more or less like sending a letter and getting a response almost instantly.
+
+What is a Domain Name?
+A domain name is the readable address of a website, like "www.google.com". 
+It’s linked to an IP (Internet Protocol) address (like a home address for computers).
+This makes it easier for people to find and access websites on the internet.
+
+🌍 DNS and How It Works
+DNS (Domain Name System) translates domain names into IP addresses. 
+When you type “facebook.com”, DNS finds the actual server’s IP so your computer knows where to go.
+It functions like a phone book for the internet, using a hierarchical system of servers to find the correct IP address for a requested domain, which then allows your browser to connect to the correct server and load the website.
+
+🧭 Browsers and How They Work
+Browsers (like Chrome or Firefox) fetch, process, and display web pages. 
+They understand code written in HTML, CSS, and JavaScript to render what you see visually.
+
+How Browsers Work.
+- You enter a website address (URL) or click a link.
+- The browser sends a request to the website’s server.
+- The server responds by sending the webpage’s data (HTML, CSS, JavaScript, images, etc.).
+- The browser processes this data and displays the webpage.
+- You can interact with the page by clicking, scrolling, or entering information.
+
+💬 What are Markup Languages?
+A markup language is a text-encoding system which specifies the structure and formatting of a document and potentially the relationships among its parts. 
+Markup can control the display of a document or enrich its content to facilitate automated processing.
+Markup languages (like HTML) use tags to structure and describe content on the web. 
+Example: `<h1>Hello World</h1>` displays a large heading on a webpage.
+
+What is Front-End Development?
+Front-end development focuses on what users see and interact with. 
+It includes HTML (structure), CSS (style), and JavaScript (functionality).  
+Example: When you click a button and it changes color — that’s front-end work.
+
+🌐 What is HTTP?
+HTTP (HyperText Transfer Protocol) is the communication system that allows data to move between browsers and servers.  
+Example: When you type a URL and press enter, your browser sends an HTTP request.
+
+What is a Browser?
+A browser is a software application that allows you to access and view websites on the internet. 
+It retrieves web pages, displays text, images, and videos, and lets you interact with online content. 
+Examples include Chrome, Safari, Edge, and Firefox.
+
+How Do Browsers Work?
+Browsers render web pages by interpreting HTML, CSS, and JavaScript. 
+They also handle caching, cookies, and security to keep your browsing smooth.
+When you enter a website address (URL) or click a link, the browser sends a request to the website’s server.
+The server responds by sending the webpage’s data (HTML, CSS, JavaScript, images, etc.).
+The browser then processes this data and displays the webpage.
+You can interact with the page by clicking, scrolling, or entering information.
+
+🕸️ How Does the Web Work?
+The web is a collection of websites stored on servers and accessed through browsers over the Internet. 
+It’s built on protocols like HTTP and secured versions like HTTPS.
