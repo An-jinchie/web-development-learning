@@ -1,13 +1,29 @@
-# web-development-learning
-<<<<<<< HEAD
-A personal repository for learning and practicing WEB DEVELOPMENT — from how the internet works to building full websites.
-=======
+# 🌐 Web Development Learning
 
-A personal repository for learning and practicing WEB DEVELOPMENT — from how the internet works to building full websites.
+A personal repository for learning and practicing **Web Development** — from understanding how the internet works to building full-fledged websites.
 
-## 🗂 Folder Structure
+---
 
-| Folder | Content |
-|--------|---------|
-| Task1 | Internet basics, DNS, HTTP, etc. |
->>>>>>> 47460a0fa71f31664e2364251f458aa0779a9c47
+## Folder Structure
+
+| Folder | Description |
+|--------|--------------|
+| **Task1** | Covers internet basics — DNS, HTTP, browsers, and how the web works. |
+| **Task2** | Practical HTML tasks: includes a “Hello World!” page and a detailed write-up on how the internet functions. |
+
+---
+
+## About
+This repo is part of a personal learning journey to master **Front-End Web Development**, starting with core internet concepts and progressing to creating real-world web projects.
+
+---
+
+## 🧰Reference
+- **YouTube**
+- **freecodecamp**
+- **w3schools**
+
+
+---
+
+*Stay tuned for more updates as new tasks are added!*
